@@ -17,6 +17,15 @@
 - Hibernate
 - Java 8
 - Lombok
-- Log4J, JUnit
+- Log4J
+- JUnit
 - Docker
 - Git
+
+#Functionality
+This project is a full-stack project using spring framework for the backend and Angular 2+ for the frontend.
+It allows the users to make purchase for type of pokemons they want and proceed to paiment. any purchase is added
+to a cart that sums your total purchase and the amount to pay.
+The user can log in and log out and database stores their informations
+The users can delete items, add items, and remove items from their carts.
+The manager controls the issue of CRUD operations
